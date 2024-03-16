@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hello there! 👋
 
-Working as a Mechanical Engineer with a focus in hydraulics.
+I'm a Mechanical Engineer specializing in hydraulics, but with a growing passion for data science and programming.
 
-I'm a driven and curiosity-fueled professional with a passion for problem-solving and a meticulous attention to detail. With a natural inclination for learning, I thrive in dynamic environments, quickly adapting to new challenges and absorbing new information with ease.
+## About Me
 
-Currently writting my Data Science Master's thesis on "Injection Molding Process Monitoring Based on Machine Learning Algorithms".
+I'm a driven and curiosity-fueled professional with a knack for problem-solving and a keen attention to detail. I thrive in dynamic environments, always eager to learn and adapt to new challenges.
 
-I'm eager to leverage my skills and knowledge in data and programming to tackle new challenges.
+## Current Focus
+
+Right now, I'm immersed in writing my Master's thesis in Data Science, focusing on "Injection Molding Process Monitoring Based on Machine Learning Algorithms". It's an exciting project that allows me to combine my engineering background with my interest in data and programming.
+
+## Goals
+
+I'm excited about the possibilities that data science and programming offer, and I'm eager to leverage my skills to tackle new challenges and contribute to innovative solutions.
+Feel free to reach out if you want to connect or discuss potential collaborations!
