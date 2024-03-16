@@ -8,7 +8,7 @@ I'm a driven and curiosity-fueled professional with a knack for problem-solving 
 
 ## Current Focus
 
-Right now, I'm immersed in writing my Master's thesis in Data Science, focusing on "Injection Molding Process Monitoring Based on Machine Learning Algorithms". It's an exciting project that allows me to combine my engineering background with my interest in data and programming.
+Right now, I'm immersed in writing my Master's thesis in Data Science, focusing on "Injection Molding Process Monitoring Based on Machine Learning Algorithms". It's an exciting project that allows me to combine my engineering background with my interest in data and programming. Exploring the limited resources for real-world scenarios of unsupervised learning make it a particularly challenging task, while creating tools to solve or handle the data limitations and data noise.
 
 ## Goals
 
