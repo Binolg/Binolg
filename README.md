@@ -4,7 +4,9 @@ I'm a Mechanical Engineer specializing in hydraulics, but with a growing passion
 
 ## About Me
 
-I'm a driven and curiosity-fueled professional with a knack for problem-solving and a keen attention to detail. I thrive in dynamic environments, always eager to learn and adapt to new challenges.
+I'm curiosity-fuelled with a passion for problem-solving. I enjoy reading, learning and strategy games.
+I often find myself going down a rabbit hole while researching, diving deep and exploring various topics.
+Programming became really appealing to me from it's very logical and challenging to optimize nature.
 
 ## Current Focus
 
