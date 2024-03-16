@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a Mechanical Engineer specializing in hydraulics, but with a growing passion for data science and programming.
+I'm a Mechanical Engineer with a growing passion for data science and programming.
 
 ## About Me
 
