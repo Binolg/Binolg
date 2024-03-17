@@ -1,6 +1,7 @@
 # Hello there! 👋
 
-I'm a Mechanical Engineer with a growing passion for data science and programming.
+I'm a Mechanical Engineer with a growing passion for data and programming.
+Currently enrolled in a Data Science Master's Degree.
 
 ## About Me
 
