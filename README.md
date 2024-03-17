@@ -5,9 +5,9 @@ I'm a Mechanical Engineer with a growing passion for data science and programmin
 ## About Me
 
 I'm curiosity-fuelled with a passion for problem-solving. I enjoy reading, learning and strategy games.
-I often find myself going down a rabbit hole while researching, diving deep and exploring various topics.
+I often find myself going down a rabbit hole while researching, and exploring various topics.
 
-Programming became really appealing to me from it's very logical and challenging to nature.
+Programming became really appealing to me from it's very logical and challenging nature.
 
 ## Current Focus
 
